@@ -1,0 +1,28 @@
+name: SaintRoark
+favicon: null
+layout_spectrum: 0.24061725987121463
+typography_spectrum: 0.9057168872095644
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.21449552825652063
+  lightness: 0.6794320847839117
+  saturation: 0.24948146543465555
+  rhythmicContrast: 0.959433033131063
+purpose: []
