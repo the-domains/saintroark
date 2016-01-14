@@ -1,28 +1,40 @@
-name: SaintRoark
-favicon: null
-layout_spectrum: 0.24061725987121463
-typography_spectrum: 0.9057168872095644
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.21449552825652063
-  lightness: 0.6794320847839117
-  saturation: 0.24948146543465555
-  rhythmicContrast: 0.959433033131063
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.2494814654346555
+  lightness: 0.6794320847839117
+  brandStrength: 0.827957
+  brandColors:
+    - '#0F0D0C'
+    - '#876E91'
+    - '#FFFFFF'
+    - '#D1D0D7'
+    - '#D79228'
+  rhythmicContrast: 0.959433033131063
+typography_spectrum: 0.3387097
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.6738351
+favicon: null
+name: SaintRoark
